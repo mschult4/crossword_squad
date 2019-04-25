@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## This is the Crossword Squad Webpage
 
-You can use the [editor on GitHub](https://github.com/mschult4/crossword_squad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is boilerplate that was left here 
+|
+|
+v
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
