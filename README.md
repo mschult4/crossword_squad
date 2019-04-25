@@ -1,13 +1,6 @@
 ## This is the Crossword Squad Webpage
 
-This is boilerplate that was left here 
-
-|
-
-|
-
-v
-
+Our utilities are meant to aid in solving daily newspaper puzzles, specifically the crossword and jumble. We will be using the Linux words file and user input.
 
 ### Markdown
 
