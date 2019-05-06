@@ -4,7 +4,6 @@ class Words(object):
     def __init__(self):
         self.words_list = list()
         self.lengths = defaultdict(list)
-        #self.characters =
 
     def import_words(self):
         for line in open('/usr/share/dict/words'):
