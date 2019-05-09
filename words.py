@@ -8,6 +8,6 @@ class Words(object):
     def import_words(self):
         for line in open('/usr/share/dict/words'):
             word = line.rstrip('\n')
-            self.words_list.append(word)
+            self.words_list.append(word.lower())
             l = len(word)
-            self.lengths[l].append(word)
+            self.lengths[l].append(word.lower())
