@@ -9,7 +9,7 @@ Our application uses the Linux words file and user input to return clues to the 
 
 How To:
 =======
-1. download .zip file `solver.zip` <a href="https://github.com/mschult4/crossword_squad/raw/master/solver.zip">here</a>, by visiting `https://github.com/mschult4/crossword_squad` 
+1. download .zip file `solver.zip` <a href="https://github.com/mschult4/crossword_squad/raw/master/solver.zip">here</a>, or by visiting `https://github.com/mschult4/crossword_squad` 
 2. unzip folder
 3. run `python3 ./main.py`
 
